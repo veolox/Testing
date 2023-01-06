@@ -44,7 +44,7 @@ public class test3 extends JFrame {
 		setContentPane(contentPane);
 		contentPane.setLayout(null);
 		
-		JButton sendLogin = new JButton("New button");
+		JButton sendLogin = new JButton("Login");
 		sendLogin.setBounds(288, 204, 89, 23);
 		contentPane.add(sendLogin);
 		
